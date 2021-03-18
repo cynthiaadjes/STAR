@@ -1,0 +1,9 @@
+group,condition,time
+nkx3.1_wt1,wildtype,30
+nkx3.1_wt2,wildtype,30
+nkx3.1_wt3,wildtype,30
+nkx3.1_wt4,wildtype,30
+nkx3.1_mut1,mutant,30
+nkx3.1_mut2,mutant,30
+nkx3.1_mut3,mutant,30
+nkx3.1_mut4,mutant,30
